@@ -22,13 +22,13 @@
 - It helps developers in faster coding, in-turn reduces development cost.
 
 ### Illustration
-## Profile.Png
+## [Profile.Png]
 
-- https://images.app.goo.gl/1U4n2yXrzrQKQL1Q8
+- (https://images.app.goo.gl/1U4n2yXrzrQKQL1Q8)
 
-## Dashboard.png
+## [Dashboard.png]
 
-- https://images.app.goo.gl/cE8aT9mYA6VA5hY78
+- (https://images.app.goo.gl/cE8aT9mYA6VA5hY78)
 
 ### SCOPE OF FUNCTIONALITY
 
